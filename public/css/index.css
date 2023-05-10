@@ -52,15 +52,15 @@
     background-color: red;
 }
 .lesson-four-task-sixteen .bg-secondary:out-of-range {
-    background-color: red;
+    color: red;
 }
 .lesson-four-task-seventeen .bg-secondary:in-range {
-    background-color: red;
+    color: red;
 }
 .lesson-four-task-eighteen > input:placeholder-shown {
     background-color: red;
 }
-#focus-within:focus-within {
+.card:focus-within {
     color: white;
     background-color: yellow;
 }
