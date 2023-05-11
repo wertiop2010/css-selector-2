@@ -60,7 +60,7 @@
 .lesson-four-task-eighteen > input:placeholder-shown {
     background-color: red;
 }
-.lesson-four-task-nineteen > .btn-group:focus-within {
+.lesson-four-task-nineteen > .btn-group > button:focus-within {
     color: white;
     background-color: yellow;
 }
